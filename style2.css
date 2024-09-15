@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.header {
+    background-color: orange;
+    padding: 10px;
+}
+.header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+.menu {
+    margin-top: 10px;
+}
+.menu a {
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+}
+.content {
+    background-color: #fff5e6;
+    padding: 20px;
+}
+.content h2 {
+    color: orange;
+}
+.read-time {
+    color: #999;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.quote {
+    font-style: italic;
+    margin: 15px 0;
+}
+#logo{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Noto Sans Japanese0","sans-serif";
+    box-shadow: 5px 5px 5px darkblue;
+    width: 13%;
+    border-radius: 30%;
+}

@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: orange;
+    padding: 10px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.menu {
+    margin-top: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+
+.content {
+    background-color: #fff5e6;
+    padding: 20px;
+}
+
+.content h2 {
+    color: orange;
+}
+
+.read-time {
+    color: #999;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.quote {
+    font-style: italic;
+    margin: 15px 0;
+}
+
+.author-section {
+    margin-top: 20px;
+}
+
+.author-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px 0;
+}
+
+.filters {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.filters h3 {
+    margin-top: 0;
+}
+
+.filters ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.filters li {
+    margin-bottom: 5px;
+}
+
+.filters li a {
+    text-decoration: none;
+    color: purple;
+}
+
+.newsletter {
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.newsletter h3 {
+    margin-top: 0;
+}
+
+.footer {
+    background-color: orange;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer h3 {
+    margin-top: 0;
+}
+
+.footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+#logo{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Noto Sans Japanese0","sans-serif";
+    box-shadow: 5px 5px 5px darkblue;
+    width: 13%;
+    border-radius: 30%;
+    box-shadow: 30%;
+}
